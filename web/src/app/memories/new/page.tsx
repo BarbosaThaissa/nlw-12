@@ -1,5 +1,5 @@
-import { Camera, ChevronLeft } from 'lucide-react'
-import Link from 'next/link'
+import { Camera, ChevronLeft } from "lucide-react";
+import Link from "next/link";
 
 export default function NewMemory() {
   return (
@@ -47,5 +47,5 @@ export default function NewMemory() {
         />
       </form>
     </div>
-  )
+  );
 }
